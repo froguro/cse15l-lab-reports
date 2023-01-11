@@ -4,7 +4,7 @@
 
 ## Heading 2	
 
-[Link](http://a.com](https://froguro.github.io/cse15l-lab-reports/)
+[Link](https://froguro.github.io/cse15l-lab-reports/)
 
 ![Image]([http://url/a.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuU19ECwLvMgl8pD5V7eos9qnFTV2kqNriG_6h9M3pkA&s))
 
