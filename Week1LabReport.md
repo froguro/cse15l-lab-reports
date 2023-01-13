@@ -21,3 +21,11 @@ Now that you have VSCode installed as well as your account obtained, it is time 
 Once you are in, it should look like this in your Terminal.
 
 ![Image](https://cdn.discordapp.com/attachments/646918392824987651/1063583537707634768/image.png)
+
+## Step 4:
+
+You're in! Now you can mess around by trying some commands. 
+
+To log out, you can press Ctrl + D or type `exit` into the Terminal.
+
+![Image](https://cdn.discordapp.com/attachments/646918392824987651/1063587498665726022/image.png)
