@@ -28,4 +28,4 @@ You're in! Now you can mess around by trying some commands.
 
 To log out, you can press Ctrl + D or type `exit` into the Terminal.
 
-![Image](https://cdn.discordapp.com/attachments/646918392824987651/1063587498665726022/image.png)
+![Image](https://cdn.discordapp.com/attachments/646918392824987651/1063599247968178196/image.png)
