@@ -14,7 +14,7 @@ Next, you are going to want to download [VSCode](https://code.visualstudio.com/)
 
 ## Step 3:
 
-Now that you have VSCode installed as well as your account obtained, it is time to remotely connect. First, download [Git for Windows](https://gitforwindows.org/). Then, in VSCode open up your Terminal (Press Ctrl + ` or click "Terminal" on the top and "New Terminal"). In the Terminal, type `ssh cs15lwi23abc@ieng6.ucsd.edu` but make sure you replace the `abc` with your unique characters. Now, a prompt should pull up and you should type "yes". It is going to ask you for your password that you created. 
+Now that you have VSCode installed as well as your account obtained, it is time to remotely connect. First, download [Git for Windows](https://gitforwindows.org/). Then, in VSCode open up your Terminal (Press Ctrl + \` or click "Terminal" on the top and "New Terminal"). In the Terminal, type `ssh cs15lwi23abc@ieng6.ucsd.edu` but make sure you replace the `abc` with your unique characters. Now, a prompt should pull up and you should type "yes". It is going to ask you for your password that you created. 
 
 **Important things to note:** You can't see what you are typing because it is a security measure. Make sure you have given the system enough time to register your password. 
 
