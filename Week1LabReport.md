@@ -1,4 +1,4 @@
-# **Tutorial: How to log into a course-specific account on `ieng6`
+# **Tutorial: How to log into a course-specific account on `ieng6`**
 
 Hey guys, today I will being showing you (CSE 15L student) how to log into `ieng6`!
 
