@@ -92,3 +92,6 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 Initially, arr is copy elements from itself. This is an issue because by the time it iterates to the middle of the array, arr will be copying the new elements. To fix this, I created a copy array for arr to copy elements from.
+
+## Part 3:
+In week 2 and week 3, I learned about many valuable techniques and tools for coding. I think that the most important thing I learned was how to use github to actively save my code from my local workspace. I also learned the very basics about creating a server with java, which prior to this I had basically no idea what the process was.
