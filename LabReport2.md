@@ -46,6 +46,7 @@ For this instance of `/add-message`, the method called is the handleRequest meth
 For this instance of `/add-message`, the method called is handleRequest once again. The url `http://localhost:4000/add-message?s=What%27s%20your%20name?` is passed as an arhument. The relevant value here is runningString, which is currently "\n My name is Owen". runningString is changed by this specific request to "\n My name is Owen \n What's your name?"
 
 ## Part 2: 
+
 ### A failure-inducing input for reverseInPlace()
 ```
 @Test
@@ -56,7 +57,9 @@ For this instance of `/add-message`, the method called is handleRequest once aga
   }
  ```
  
+ 
  ### An input that doesn’t induce a failure
+ 
  ```
 @Test 
 	public void testReverseInPlace() {
