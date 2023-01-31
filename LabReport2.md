@@ -37,4 +37,4 @@ class StringServer {
 }
 ```
 
-![Screenshot1](cse15l-lab-reports/LabReport2SC2)
+![Screenshot1](cse15l-lab-reports/LabReport2SC2.png)
