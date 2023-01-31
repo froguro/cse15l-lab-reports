@@ -56,9 +56,8 @@ For this instance of `/add-message`, the method called is handleRequest once aga
     assertArrayEquals(new int[]{4, 3, 2, 1}, input1);
   }
  ```
- 
- 
- ### An input that doesn’t induce a failure
+
+### An input that doesn’t induce a failure
  
  ```
 @Test 
