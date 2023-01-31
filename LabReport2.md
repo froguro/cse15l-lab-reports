@@ -3,6 +3,7 @@
 ## Part 1: 
 
 ```
+### Code
 import java.net.URI;
 import java.io.IOException;
 
@@ -35,3 +36,5 @@ class StringServer {
     }
 }
 ```
+
+![Screenshot1](cse15l-lab-reports/LabReport2SC2)
