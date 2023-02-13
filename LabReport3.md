@@ -3,8 +3,8 @@
 ## `find`
 I will be focusing on the `find` command
 
-### **Option 1: `-empty`**
-Searches for empty files and directories.
+### **Option 1: `-empty`** 
+Searches for empty files and directories. Source: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
 
 **Example 1** <br>
 ```
@@ -24,7 +24,7 @@ Trying to find an empty file in the non-fiction directory, it can be seen that n
 
 
 ### **Option 2: `-newer file`**
-Searches for files that were modified/created after ‘file’.
+Searches for files that were modified/created after ‘file’. Source: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
 
 **Example 1** <br>
 ```
@@ -44,7 +44,7 @@ Using `-newer` on this file called Vallarta-WhatToDo.txt, it returns directories
 Using `-newer` on the newest file in written_2 will return nothing because there were no changes or creations made after it yet. This is useful to see that a file is the newest file.
 
 ### **Option 3: `-exec CMD`**
-Executes CMD on directories and files being searched
+Executes CMD on directories and files being searched Source: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
 
 **Example 1** <br>
 ```
@@ -75,7 +75,7 @@ This command searches through written_2 and then prints out any file that contai
 This command finds the file named WhatToLosAngeles.txt and then executes the wc command on it. It returns the wc of the text file. This is useful because prior to this we would probably first take the result of find into a new file and use wc on that new file. This speeds up the process significantly.
 
 ### **Option 4: `-ok CMD`**
-Works like `-exec` but it prompts the user first.
+Works like `-exec` but it prompts the user first. Source: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
 
 **Example 1:** <br>
 ```
