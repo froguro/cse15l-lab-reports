@@ -6,10 +6,12 @@
 
 ![image](https://cdn.discordapp.com/attachments/776858501720178758/1079533945978376233/image.png)
 Keys pressed: ssh`<space>`cs15lwi23axq@ieng6.ucsd.edu
+
 ### Clone your fork of the repository from your Github account
 
 ![image2](https://cdn.discordapp.com/attachments/776858501720178758/1079534332898705458/image.png)
 Keys pressed: `<ctrl-r>`git`<space>`clone`<enter>`
+
 ### Run the tests, demonstrating that they fail
 
 ![image3](https://cdn.discordapp.com/attachments/776858501720178758/1079535014133379183/image.png)
