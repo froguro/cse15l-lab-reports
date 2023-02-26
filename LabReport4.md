@@ -27,7 +27,7 @@ Keys pressed: `<ctrl-r>`n`<enter>` <br/>
 
 ![image5](https://cdn.discordapp.com/attachments/776858501720178758/1079537734714130523/image.png) <br/>
 Keys pressed: `<down><right><backspace>`2`<ctrl-o><enter><ctrl-x>` <br/>
-*In the nano window, I hold the down arrow key to get to the line of the bug. Once I reached that line, I held down the right arrow key to get the cursor in front of the 1 in `index1`. I then backspace to delete the 1 and type 2 to replace it with 2.*
+*In the nano window, I hold the down arrow key to get to the line of the bug. Once I reached that line, I held down the right arrow key to get the cursor in front of the 1 in `index1`. I then backspace to delete the 1 and type 2 to replace it with 2. Finally I save the file with `<ctrl-o>` and close nano with `<ctrl-x>`*
 ### Run the tests, demonstrating that they now succeed
 
 ![image6](https://cdn.discordapp.com/attachments/776858501720178758/1079538404515139736/image.png) <br/>
